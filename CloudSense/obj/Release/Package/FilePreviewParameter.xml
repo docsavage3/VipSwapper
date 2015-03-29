@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="vipswapper/cloudsense" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Dropbox\\Code\\SourceControl\\VipSwapper\\CloudSense\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Dropbox\\Code\\SourceControl\\VipSwapper\\CloudSense\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DataAccess-Web.config Connection String" description="" value="Server=tcp:wcgpfhib8w.database.windows.net,1433;Database=vipswapper-cloudsense;User ID=dushyantgill@wcgpfhib8w;Password=qwert@12345;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Dropbox\\Code\\SourceControl\\VipSwapper\\CloudSense\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DataAccess']/@connectionString" />
+  </parameter>
+</parameters>

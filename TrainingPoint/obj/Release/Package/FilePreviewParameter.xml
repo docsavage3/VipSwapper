@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="vipswapper/trainingpoint" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Dropbox\\Code\\SourceControl\\VipSwapper\\TrainingPoint\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Dropbox\\Code\\SourceControl\\VipSwapper\\TrainingPoint\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DataAccess-Web.config Connection String" description="" value="Data Source=wcgpfhib8w.database.windows.net;Initial Catalog=vipswapper-trainingpoint;User ID=dushyantgill;Password=qwert@12345" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Dropbox\\Code\\SourceControl\\VipSwapper\\TrainingPoint\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DataAccess']/@connectionString" />
+  </parameter>
+</parameters>

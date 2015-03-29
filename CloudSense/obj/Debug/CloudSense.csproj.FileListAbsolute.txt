@@ -1,0 +1,240 @@
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\CloudSense.dll.config
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\CloudSense.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\CloudSense.pdb
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Antlr3.Runtime.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\EntityFramework.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\EntityFramework.SqlServer.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Web.Infrastructure.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Newtonsoft.Json.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Owin.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Helpers.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Mvc.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Optimization.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Razor.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.Deployment.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.Razor.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\WebGrease.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\EntityFramework.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\EntityFramework.SqlServer.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Helpers.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Mvc.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Optimization.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Razor.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.Deployment.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.Razor.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Antlr3.Runtime.pdb
+D:\SourceControl\Work\VipSwapper\CloudSense\bin\Newtonsoft.Json.xml
+D:\SourceControl\Work\VipSwapper\CloudSense\obj\Debug\CloudSense.dll
+D:\SourceControl\Work\VipSwapper\CloudSense\obj\Debug\CloudSense.pdb
+D:\SourceControl\Work\VipSwapper\CloudSense\obj\Debug\CloudSense.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\obj\Debug\CloudSense.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\obj\Debug\CloudSense.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\CloudSense.dll.config
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\CloudSense.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\CloudSense.pdb
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Antlr3.Runtime.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\EntityFramework.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\EntityFramework.SqlServer.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Newtonsoft.Json.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Owin.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Helpers.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Mvc.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Optimization.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Razor.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.Deployment.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.Razor.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\WebGrease.dll
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\EntityFramework.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\EntityFramework.SqlServer.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Helpers.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Mvc.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Optimization.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.Razor.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.Deployment.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\System.Web.WebPages.Razor.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Antlr3.Runtime.pdb
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\bin\Newtonsoft.Json.xml
+D:\Dropbox\Code\SourceControl\Work\VipSwapper\CloudSense\obj\Debug\CloudSense.pdb
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\CloudSense.dll.config
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\CloudSense.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\CloudSense.pdb
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.Cookies.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Owin.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.IdentityModel.Tokens.Jwt.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.Cookies.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.IdentityModel.Tokens.Jwt.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Optimization.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Antlr3.Runtime.pdb
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\obj\Debug\CloudSense.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\obj\Debug\CloudSense.dll
+\\vmware-host\Shared Folders\Files\Dropbox\Code\SourceControl\VipSwapper\CloudSense\obj\Debug\CloudSense.pdb
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\CloudSense.dll.config
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\CloudSense.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\CloudSense.pdb
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Antlr3.Runtime.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.SqlServer.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Web.Infrastructure.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Newtonsoft.Json.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Owin.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Helpers.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Mvc.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Optimization.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Razor.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Deployment.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Razor.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\WebGrease.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.SqlServer.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Helpers.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Mvc.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Optimization.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Razor.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Deployment.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Razor.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Antlr3.Runtime.pdb
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Newtonsoft.Json.xml
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\obj\Debug\CloudSense.csprojResolveAssemblyReference.cache
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\obj\Debug\CloudSense.dll
+C:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\obj\Debug\CloudSense.pdb
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\CloudSense.dll.config
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\CloudSense.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\CloudSense.pdb
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Antlr3.Runtime.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.SqlServer.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Web.Infrastructure.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Newtonsoft.Json.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Owin.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.IdentityModel.Tokens.Jwt.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Helpers.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Mvc.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Optimization.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Razor.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Deployment.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Razor.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\WebGrease.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\EntityFramework.SqlServer.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.IdentityModel.Tokens.Jwt.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Helpers.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Mvc.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Optimization.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.Razor.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Deployment.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\System.Web.WebPages.Razor.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Antlr3.Runtime.pdb
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\bin\Newtonsoft.Json.xml
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\obj\Debug\CloudSense.csprojResolveAssemblyReference.cache
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\obj\Debug\CloudSense.dll
+Z:\Dropbox\Code\SourceControl\VipSwapper\CloudSense\obj\Debug\CloudSense.pdb

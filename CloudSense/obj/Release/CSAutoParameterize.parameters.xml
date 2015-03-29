@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DataAccess-Web.config Connection String" description="DataAccess Connection String used in web.config by the application to access the database." defaultValue="DataAccess_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Dropbox\\Code\\SourceControl\\VipSwapper\\CloudSense\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DataAccess']/@connectionString" />
+  </parameter>
+</parameters>
